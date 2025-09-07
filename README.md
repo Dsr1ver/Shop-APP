@@ -1,2 +1,2 @@
 # Shop-APP
-Shop App
+Shop App for practice
